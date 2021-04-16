@@ -3,6 +3,8 @@ package LogicalCode;
 public class Class1 {
 	public static void main(String[] args) {
 		System.out.println("suyog");
+		System.out.println("suyog");
+		System.out.println("suyog");
 	}
 
 }
